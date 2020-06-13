@@ -32,7 +32,7 @@ man chap_num object
   - N: look for previous
   
 Exp(x@y:~$ man ls):  
-![man ls](https://raw.githubusercontent.com/QingFengpoor/git-pictures/master/git-pictures/20200613143813.png)
+![Screenshot_20200613_171605](https://raw.githubusercontent.com/QingFengpoor/git-pictures/master/git-pictures/Screenshot_20200613_171605.png)
 
 ## file and folder 
 
