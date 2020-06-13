@@ -34,7 +34,6 @@ man chap_num object
 Exp(x@y:~$ man ls):  
 ![man ls](https://raw.githubusercontent.com/QingFengpoor/git-pictures/master/git-pictures/20200613143813.png)
 
-
 ## file and folder 
 
 create & delete  
